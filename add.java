@@ -8,6 +8,8 @@ public class add
         int b = 20;
         int c = a + b ;
         System.out.println(c);
+
+        System.out.println("hellp world!!!" + "This is my first git repo");
     }
 
 }
